@@ -1,0 +1,20 @@
+Use dataset:
+
+stock_data.csv
+
+Columns:
+
+
+Date
+Open
+High
+Low
+Close
+Volume
+
+
+Example:
+
+Date,Open,High,Low,Close,Volume
+2024-01-01,185,190,182,188,1200000
+2024-01-02,188,193,186,191,1500000
