@@ -1,0 +1,9 @@
+print(
+"MAE:",
+mean_absolute_error(y_test,prediction)
+)
+
+print(
+"Accuracy:",
+r2_score(y_test,prediction)
+)
