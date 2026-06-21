@@ -1,0 +1,7 @@
+df.describe()
+Output:
+
+Mean price
+Maximum price
+Minimum price
+Standard deviation
