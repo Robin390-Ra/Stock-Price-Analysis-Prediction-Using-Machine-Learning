@@ -1,0 +1,16 @@
+Stock-Price-Analysis-Project
+│
+├── Dataset
+│   └── stock_data.csv
+│
+├── Notebook
+│   └── Stock_Price_Analysis.ipynb
+│
+├── Images
+│   ├── closing_price.png
+│   ├── correlation.png
+│   └── prediction.png
+│
+├── README.md
+│
+└── requirements.txt
