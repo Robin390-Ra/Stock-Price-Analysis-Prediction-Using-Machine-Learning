@@ -1,0 +1,13 @@
+corr=df.corr()
+
+corr
+
+Visualization:  plt.figure(figsize=(8,5))
+
+               plt.imshow(corr)
+
+               plt.colorbar()
+
+               plt.title("Correlation Matrix")
+
+               plt.show()
